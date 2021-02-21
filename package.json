@@ -8,11 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^2.8.6",
+    "@tensorflow/tfjs-automl": "^1.0.0",
+    "autoprefixer": "^10.0.4",
     "next": "latest",
+    "postcss": "^8.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "autoprefixer": "^10.0.4",
-    "postcss": "^8.1.10",
     "tailwindcss": "^2.0.2"
   }
 }
