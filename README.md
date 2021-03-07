@@ -5,4 +5,6 @@
 build a machine learning model to classify what is in the camera based on asl_alphabet dataset that you can get here https://www.kaggle.com/grassknoted/asl-alphabet
 
 
-how i build it stills on WIP for medium article
+## How dooes it built
+
+https://titusefferian.medium.com/expand-your-front-end-skills-with-machine-learning-f9780b99740f
